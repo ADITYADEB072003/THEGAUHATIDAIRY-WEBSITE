@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+  <title id="title">The Gauhati Dairy logo</title>
+  <desc id="desc">A maroon heritage seal with a milk drop, a flower motif and the initials GD.</desc>
+  <circle cx="100" cy="100" r="94" fill="#6f1f24"/>
+  <circle cx="100" cy="100" r="82" fill="none" stroke="#e4bb70" stroke-width="2"/>
+  <path d="M100 34c-14 20-27 36-27 52a27 27 0 1 0 54 0c0-16-13-32-27-52Z" fill="#f8f2e8"/>
+  <path d="M100 50c-7 13-14 24-14 34a14 14 0 1 0 28 0c0-10-7-21-14-34Z" fill="#ce9a42"/>
+  <path d="M62 111c10-7 20-10 30-10 4 0 8 1 8 5s-4 5-8 5c-8 0-15 2-22 7m68-7c-10-7-20-10-30-10-4 0-8 1-8 5s4 5 8 5c8 0 15 2 22 7" fill="none" stroke="#e4bb70" stroke-linecap="round" stroke-width="3"/>
+  <text x="100" y="146" fill="#f8f2e8" font-family="Georgia, serif" font-size="39" font-weight="700" letter-spacing="-2" text-anchor="middle">GD</text>
+  <path d="M55 160h90" stroke="#e4bb70" stroke-width="1.5"/>
+  <text x="100" y="177" fill="#e4bb70" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2.8" text-anchor="middle">EST. 1928</text>
+</svg>
